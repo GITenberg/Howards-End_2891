@@ -1,0 +1,49 @@
+_repo: Howards-End_2891
+creator:
+  author:
+    agent_name: Forster, E. M. (Edward Morgan)
+    alias: Forster, Edward Morgan
+    birthdate: 1879
+    deathdate: 1970
+    gutenberg_agent_id: '975'
+    url: http://www.gutenberg.org/2009/agents/975
+    wikipedia: http://en.wikipedia.org/wiki/E._M._Forster
+description: "Howards End (frequently mis-titled as Howard's End) is a novel by E.\
+  \ M. Forster, first published in 1910, about social conventions, codes of conduct,\
+  \ and personal relationships in turn-of-the-century England.\nHowards End is considered\
+  \ by some to be Forster's masterpiece. In 1998, the Modern Library ranked Howards\
+  \ End 38th on its list of the 100 best English-language novels of the 20th century.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2001-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2891'
+  wikidata: Q1146642
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country homes -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Illegitimate children -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Remarried people -- Fiction'
+title: Howards End
+url: http://www.gutenberg.org/ebooks/2891
+wikipedia:
+- https://fr.wikipedia.org/wiki/Howards_End_(roman)
+- https://ar.wikipedia.org/wiki/%D9%86%D9%87%D8%A7%D9%8A%D8%A9_%D9%87%D8%A7%D9%88%D8%B1%D8%AF
+- https://zh.wikipedia.org/wiki/%E6%AD%A4%E6%83%85%E5%8F%AF%E5%95%8F%E5%A4%A9_(%E5%B0%8F%E8%AA%AA)
+- https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AF%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89
+- https://pt.wikipedia.org/wiki/Howards_End
+- https://fa.wikipedia.org/wiki/%D9%87%D9%88%D8%A7%D8%B1%D8%AF%D8%B2_%D8%A7%D9%86%D8%AF
+- https://de.wikipedia.org/wiki/Wiedersehen_in_Howards_End_(Roman)
+- https://en.wikipedia.org/wiki/Howards_End
+- https://it.wikipedia.org/wiki/Casa_Howard_(romanzo)
+- https://sh.wikipedia.org/wiki/Howards_End
+- https://he.wikipedia.org/wiki/%D7%90%D7%97%D7%95%D7%96%D7%AA_%D7%94%D7%95%D7%95%D7%90%D7%A8%D7%93
