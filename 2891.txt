@@ -1,4 +1,4 @@
-*The Project Gutenberg Etext of Howards End, by E. M. Forster*
+*The Project Gutenberg Etext of Howard's End, by E. M. Forster*
 #3 in our series by E. M. Forster
 
 Copyright laws are changing all over the world, be sure to check
@@ -37,16 +37,17 @@ PMB 113
 Oxford, MS 38655
 
 
-Title:  Howards End
+Title:  Howard's End
 
 Author:  E. M. Forster
 
 Release Date:  November, 2001  [Etext #2891]
-[Yes, we are about one year ahead of schedule]
+Last Updated: April 27, 2018
+
 
 Edition:  10
 
-*The Project Gutenberg Etext of Howards End, by E. M. Forster*
+*The Project Gutenberg Etext of Howard's End, by E. M. Forster*
 *****This file should be named 2891.txt or 2891.zip*****
 
 This etext was prepared by Richard Fane, Haddonfield NJ
@@ -2822,7 +2823,7 @@ sooner risk it," was her lame conclusion.
 
 "But imagine the evenings," exclaimed her aunt, pointing
 to the Mansions with the spout of the watering-can.  "Turn
-the electric light on her or there, and it's almost the same
+the electric light on here or there, and it's almost the same
 room.  One evening they may forget to draw their blinds
 down, and you'll see them; and the next, you yours, and
 they'll see you.  Impossible to sit out on the balconies.
@@ -6470,7 +6471,7 @@ re-echoed to a vulgar row.
 "I don't want your patronage.  I don't want your tea.  I
 was quite happy.  What do you want to unsettle me for?"  He
 turned to Mr. Wilcox.  "I put it to this gentleman.  I ask
-you, sir, am to have my brain picked?"
+you, sir, am I to have my brain picked?"
 
 Mr. Wilcox turned to Margaret with the air of humorous
 strength that he could so well command.  "Are we intruding,

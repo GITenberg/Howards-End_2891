@@ -1,5 +1,5 @@
 _repo: Howards-End_2891
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -39,6 +39,7 @@ subjects:
 - !lcsh 'Domestic fiction'
 - !lcsh 'Inheritance and succession -- Fiction'
 - !lcsh 'Remarried people -- Fiction'
+- GITenberg
 title: Howards End
 url: http://www.gutenberg.org/ebooks/2891
 wikipedia:
